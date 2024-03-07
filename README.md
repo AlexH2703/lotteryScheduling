@@ -1,1 +1,2 @@
 # lotteryScheduling
+This is a C++ program that is a lottery ticket style scheduling code for processes. First set the number of tickets per process you want in the first line of the main function. Then create however many processes you want and add them to the scheduler using the function provided. Execute the code and you should be provided with the process that was selected. If you want to check the assignment of the tickets and that the winning ticket is held by one of the processes, you can uncomment the printTickets implementation before the final print statement.
